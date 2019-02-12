@@ -1,0 +1,22 @@
+<html dir="rtl">
+<head>
+<title>Program 1</title>
+</head>
+<body bgcolor="violet">
+<strike><p align="left">This is left</p></strike>
+<b><u><p align="center">This is in middle</p></b></u>
+<tt><v align="top">This is right</v></tt><hr />
+<sup><p align="left">Rohith Reddy</p></sup>
+<sub><p align="left">Rohith Reddy</p></sub>
+<ins><p align="left">Rohith</p></ins>
+<big><p align="left">Rohith Ramesh</p></big>
+<small><p align="left">Rohith Reddy</p></small>
+<strong><p align="left">Rohith Reddy</p></strong>
+<UL TYPE="square">
+<LI> Apple</LI>
+<LI> Mango</LI>
+<LI> Banana</LI>
+<LI> Orange</LI>
+</UL>
+</body>
+</html>
